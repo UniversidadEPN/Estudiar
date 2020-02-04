@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Estudiar</string>
+    <string name="btn_base">Ir a base Datos</string>
+    <string name="seguirBase">Segui a base</string>
+    <string name="txt_apellido">Ingresa apellido</string>
+    <string name="txt_edad">Ingresa edad</string>
+    <string name="txt_celular">Ingresa celular</string>
+
+</resources>
